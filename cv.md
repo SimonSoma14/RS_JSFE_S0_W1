@@ -8,3 +8,5 @@
 + Git
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur eius in labore quidem, sequi suscipit! 
+
+![Image](https://cdn.pixabay.com/photo/2015/07/08/07/41/tree-835455_640.jpg "Подпись")
